@@ -48,3 +48,6 @@ Features: Post and manage reviews for properties.
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
 GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
+
+**CI/CD Pipeline**
+CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
