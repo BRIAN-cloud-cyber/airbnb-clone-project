@@ -44,3 +44,7 @@ Features: Handle payment transactions related to bookings.
 6. Review System
 Endpoints: /reviews/, /reviews/{review_id}/
 Features: Post and manage reviews for properties.
+**API Security**
+OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
+Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
+GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
